@@ -7,7 +7,6 @@ API para a tabela de usuarios utilizando tecnologias importantes como criptograf
 
 - Node
 - Express
-- DBeaver
 - Crypto
 - TypeORM
 - Postgres
