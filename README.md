@@ -1,7 +1,7 @@
 
 # API Usuario
 
-API de usuario com criptografia de dados e conexão ao banco do Postgres através do TypeORM
+API para a tabela de usuarios utilizando tecnologias importantes como criptografia de dados e conexão ao banco do Postgres através do TypeORM
 
 ## Stack utilizada
 
